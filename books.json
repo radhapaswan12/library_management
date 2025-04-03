@@ -1,0 +1,19 @@
+[
+  {
+    "ID": 1,
+    "Title": "Cloud Computing",
+    "Author": "Sunil Sharma",
+    "Genre": "Classic",
+    "ISBN": "978-9937-752-33-6",
+    "Year": "2078"
+
+  },
+  {
+    "ID": 2,
+    "Title": "Advanced Database",
+    "Author": "Indra Chaudahary",
+    "Genre": "Classic",
+    "ISBN": "978-9937-752-43-5",
+    "Year": "2022"
+  }
+]
